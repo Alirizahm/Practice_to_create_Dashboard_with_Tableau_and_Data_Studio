@@ -1,4 +1,4 @@
-# Practice to create Dashboard with Tableau and Data_Studio
+# Practice to create Dashboard with Tableau and Data Studio
 Author's : Aliriza Hamonangan Matondang
 ## Hello Everyone 👋
 I have tried to study to create dashboard in Tablue and Data Studio. Im so curious to learn about it and it was a bit difficult, but its okay. So I would like to show you about my practice to create dashboard in Tablue and Data Studio.
