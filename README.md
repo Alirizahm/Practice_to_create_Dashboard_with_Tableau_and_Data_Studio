@@ -4,7 +4,7 @@ Author's : Aliriza Hamonangan Matondang
 I have tried to study to create dashboard in Tablue and Google Data Studio. I was so curious to learn about these, which were a bit difficult. Anyway, it's fine. So I would like to show you about my practice to create dashboard in Tablue and Google Data Studio.
 ## The Results
 1. Super Store Dasboard
-<img width="959" alt="Screenshot 2022-04-20 160907" src="https://user-images.githubusercontent.com/92624520/164193699-cbec5e24-a242-4875-a2b3-664f06055c9c.png">
+<img width="960" alt="Screenshot 2022-04-20 161421" src="https://user-images.githubusercontent.com/92624520/164194914-e4d0825e-6278-4a45-ab3e-7e0ed00912d2.png">
 
 
 You guys, please click [here](https://public.tableau.com/app/profile/aliriza.hamonangan.matondang/viz/SuperStoreDashboard_16496609580700/Dashboard2?publish=yes) to check my dashboard in Tableau Public
