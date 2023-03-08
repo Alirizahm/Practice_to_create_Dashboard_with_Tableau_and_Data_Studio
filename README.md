@@ -15,10 +15,9 @@ You guys, please click [here](https://public.tableau.com/app/profile/aliriza.ham
 You guys, please click [here](https://datastudio.google.com/reporting/ac0306b4-c77b-46b6-b51c-04356efd011e) to check my dashboard in Data Studio
 
 3. Coffee Shop Transaction Dashboard
-
-
-## Note 
-Please contact me if you guys have any suggestion, I am most welcome. I am a newbie :))) 🤖
 <img width="614" alt="Screenshot 2022-11-30 210144" src="https://user-images.githubusercontent.com/92624520/223601356-d115aacf-01ef-4d00-b5de-679afb0bcd35.png">
 
 You guys, please click [here](https://public.tableau.com/app/profile/aliriza.hamonangan.matondang/viz/CoffeeShopDashboard_16689544123600/Story1) to check my dashboard in Tableau Public
+
+## Note 
+Please contact me if you guys have any suggestion, I am most welcome. I am a newbie :))) 🤖
